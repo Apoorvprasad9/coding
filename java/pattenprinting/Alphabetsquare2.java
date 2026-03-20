@@ -10,3 +10,11 @@ public class Alphabetsquare2 {
     }
     
 }
+
+//output
+/*
+a b c d 
+a b c d
+a b c d
+a b c d
+*/

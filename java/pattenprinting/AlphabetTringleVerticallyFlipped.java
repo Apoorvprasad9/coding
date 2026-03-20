@@ -10,7 +10,11 @@ public class AlphabetTringleVerticallyFlipped {
                 System.out.print("  ");
             }
             for(int j=1;j<=i;j++){
-                
+                if(i%2==1){ // odd row -- lowercase
+                    System.out.print((char)(i+96)+" "); 
+                }else{ // even row -- uppercase
+                    System.out.print((char)(i+64)+" ");
+                }
             }
             System.out.println();
 
@@ -18,3 +22,13 @@ public class AlphabetTringleVerticallyFlipped {
         
     }
 }
+
+//output
+/*
+        a 
+      B B 
+    c c c 
+  D D D D
+e e e e e
+
+*/

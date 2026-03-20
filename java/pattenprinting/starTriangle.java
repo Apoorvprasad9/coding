@@ -13,3 +13,12 @@ public class starTriangle {
         }
     }
 }
+
+//output
+/*
+* 
+* *
+* * *
+* * * *
+* * * * *
+*/

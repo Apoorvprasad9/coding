@@ -9,3 +9,13 @@ public class starRec {
         }
     }
 }
+
+//output
+/*
+
+* * * * * 
+* * * * *
+* * * * *
+* * * * *
+
+*/

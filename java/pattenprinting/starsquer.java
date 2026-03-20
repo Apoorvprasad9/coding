@@ -9,3 +9,12 @@ public class starsquer {
         }
     }
 }
+//output
+/*
+
+* * * * 
+* * * *
+* * * *
+* * * *
+
+*/

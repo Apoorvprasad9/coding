@@ -10,3 +10,10 @@ public class Alphabetsqure {
     }
     
 }
+//output
+/*
+A B C D 
+A B C D
+A B C D
+A B C D
+*/
